@@ -1,0 +1,112 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'BalsamiqSans', sans-serif;
+	color: 000;
+	font-size: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 1500px;
+	margin: auto;
+
+}
+
+.header {
+	background-color: rgb(255, 168, 18);
+	padding-top: 30px;
+}
+
+header a {
+	color: black;
+}
+
+.logo {
+	margin-right: : 157px;
+}
+
+.menu {
+	display: flex;
+}
+
+.menu li a {
+	text-decoration: none; 
+	font-size: 30px;
+}
+
+.menu li {
+	margin-right: 55px;
+	margin-left: 55px;
+}
+
+.cor {
+	text-decoration: none; 
+	margin-left: auto;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+}
+.offer {
+	padding: 165px 100px 22px 0px;
+	width: 600px;
+	font-size: 50px;
+}
+
+.tre {
+	display: flex;
+}
+
+.ntr {
+  display: block;
+}
+
+.btn {
+	display: block;
+	font-size: 25px;
+	text-align: center;
+	padding: 22px 47px;
+	width: 300px;
+	text-decoration: none;
+	border: 1px solid #000;
+}
+
+.slovo {
+	padding-top: 22px;
+	padding-bottom: 22px;
+	width: 464px;
+	height: 125px;
+	left: 116px;
+	top: 467px;
+	font-size: 30px;
+	line-height: 36px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.kar {
+	padding-top: 100px;
+	width: 700px;
+	height: 700px;
+	padding-left:300px;
+	transform: rotate(-45deg);
+}
+
+.footer-text {
+	font-size: 20px;
+	margin-top: 200px;
+	display: flex;
+}
